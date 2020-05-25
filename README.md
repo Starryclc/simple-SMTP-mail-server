@@ -1,5 +1,5 @@
 # SMTP
-A SMTP mail service using Socket API
+A simple SMTP mail server using Socket API
 # 1. 概述
 使用Socket API 编写一个 SMTP 邮件服务器程序，该程序使用SMTP接收来自邮件客户端（如 Foxmail、 outlook）的邮件，并使用SMTP转发到实际的接收邮件服务器
 的用户邮箱 （如 @163.com、 @bupt.edu.cn等）。
